@@ -49,12 +49,4 @@ Le projet est organisé en plusieurs fichiers pour une meilleure modularité :
 
 ## Exemple de sortie
 
-⬛ ⬛ ⬛ ⬜ ⬜ ⬛ ⬛ ⬜ ⬛
-⬛ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬜
-⬛ ⬜ ⬜ ⬛ ⬛ ⬜ ⬜ ⬜ ⬛
-⬛ ⬜ ⬛ ⬜ ⬛ ⬛ ⬛ ⬜ ⬛
-⬛ ⬛ ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬛
-⬛ ⬜ ⬛ ⬛ ⬛ ⬜ ⬛ ⬛ ⬜
-⬛ ⬜ ⬛ ⬜ ⬛ ⬛ ⬛ ⬜ ⬜
-⬛ ⬛ ⬛ ⬜ ⬛ ⬛ ⬜ ⬜ ⬛
-⬜ ⬛ ⬛ ⬛ ⬛ ⬜ ⬛ ⬜ ⬛
+![alt text](image.png)
